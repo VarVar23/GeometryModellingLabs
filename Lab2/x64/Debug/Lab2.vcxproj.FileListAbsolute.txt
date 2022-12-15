@@ -1,0 +1,11 @@
+C:\Lab2\x64\Debug\Lab2.exe
+C:\Lab2\x64\Debug\Lab2.pdb
+C:\Lab2-20221117T141649Z-001\Lab2\x64\Debug\Lab2.exe
+C:\Lab2-20221117T141649Z-001\Lab2\x64\Debug\Lab2.pdb
+C:\Lab2-2022\Lab2\x64\Debug\Lab2.exe
+C:\Lab2-2022\Lab2\x64\Debug\Lab2.pdb
+C:\Users\Fragi1e\Downloads\Lab2-20221213T024342Z-001\Lab2\x64\Debug\Lab2.exe
+C:\Users\Fragi1e\Downloads\ilienko\Lab2-20221213T024342Z-001\Lab2\x64\Debug\Lab2.exe
+C:\Users\Nadya\Downloads\ilienko\ilienko\Lab2-20221213T024342Z-001\Lab2\x64\Debug\Lab2.exe
+C:\Users\olegn\Downloads\Lab2\Lab2\x64\Debug\Lab2.exe
+D:\Папка, чтобы удалить\GeometryModellingLabs\Lab2\x64\Debug\Lab2.exe
